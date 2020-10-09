@@ -1,0 +1,34 @@
+body *{
+	font-family: 'Roboto', sans-serif;
+}
+
+h1{
+	font-size: 50px;
+}
+
+h5{
+	font-size: 16px;
+}
+
+.logo_fontstyle{
+	font-size:25px ;
+	font-weight:500;
+}
+
+.container nav .navbar-collapse .nav_fontstyle li a{
+	color:#111;
+	font-weight: 500;
+}
+
+.button-style{
+	background:#ff7f50;
+	border-color:#ff7f50;
+}
+
+.grey{
+	color:#525252;
+}
+
+.bg-milk{
+	background: #f8f9fa;
+}
